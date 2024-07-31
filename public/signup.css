@@ -1,0 +1,29 @@
+#login-body {
+    background-image: url('background_dark.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+#details {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#details input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#submit-button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
